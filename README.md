@@ -84,27 +84,10 @@ The Half Adder and Half Subtractor were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ### Output
+<img width="1912" height="1015" alt="DLCD EXPT-3 1" src="https://github.com/user-attachments/assets/de749735-11e1-42eb-acbc-f7b4f2f7e272" />
+<img width="1916" height="1017" alt="DLCD EXPT-3 2" src="https://github.com/user-attachments/assets/4184b371-e689-4b23-8ff7-d51b77139adc" />
 
 
-### Viva-Voce Questions
-
-•	What is a Half Adder, and what are its limitations compared to a Full Adder?
-
-•	What is a Half Subtractor, and what does the Borrow output signify?
-
-•	Why is the Sum/Difference expression identical (A⊕B) for both circuits, while Carry and Borrow differ?
-
-•	What gate realizes the XOR function, and why is it central to both circuits?
-
-•	What is the purpose of a Verilog testbench?
-
-•	Why is a VCD file generated, and what does $dumpvars(0, tb) do?
-
-•	What is the purpose of ./simv?
-
-•	What is the difference between simulation and synthesis?
-
-•	How would you extend this design to a Full Adder/Full Subtractor?
 
 ### Result
 
